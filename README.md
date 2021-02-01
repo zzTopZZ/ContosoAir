@@ -74,6 +74,9 @@ What's left is to compress the whole folder in a zip file and upload it to Azure
 - [Azure App Service Deploy](https://aka.ms/azurermwebdeployreadme)
   - Package or folder: Select zip cabinet from the artifact.
 
+  [![Build Status](https://dev.azure.com/renatozz/Lab01/_apis/build/status/zzTopZZ.ContosoAir?branchName=master)]
+  (https://dev.azure.com/renatozz/Lab01/_build/latest?definitionId=2&branchName=master)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
